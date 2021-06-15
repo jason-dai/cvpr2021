@@ -3,8 +3,11 @@ ___
 
 ## Speaker
 [Jason Dai](https://jason-dai.github.io/), Intel
+
 Jason Liu, Inspur
+
 Yang Wang, Intel
+
 
 ## Schedule
 _10AM-12PM (East Time), June 19, 2021_
