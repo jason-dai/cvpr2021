@@ -2,10 +2,16 @@
 ___
 
 ## Speaker
-[Jason Dai](https://jason-dai.github.io/)
+[Jason Dai](https://jason-dai.github.io/), Intel
+Jason Liu, Inspur
+Yang Wang, Intel
 
 ## Schedule
-_7-10AM (Pacific Time), June 19, 2021_
+_10AM-12PM (East Time), June 19, 2021_
+
+| 10:00 - 10:45   | Seamlessly Scaling out Big Data AI on Ray and Apache Spark | Jason Dai, Intel |
+| 10:45 - 11:30   | E2E Smart Transportation CV application in Inspur (using Insight Data-Intelligence platform) | Jason Liu, Inspur |
+| 11:30 - 12:00  | Transparent Acceleration of E2E Computer Vision Pipelines | Yang Wang, Intel |
 
 ## Description
 As AI moves from experimentation to production, a key challenge in practice is how to seamlessly integrate distributed data processing and AI programs into a single unified pipeline. Today, AI researchers and data scientists usually need to go through a mountain of pains to apply AI models to production dataset that is stored in distributed Big Data cluster. Conventional approaches would set up two separate clusters, one for Big Data processing, and the other dedicated to deep learning and AI, with “connector” (or glue code) deployed in between. Unfortunately, this not only introduces a lot of data transfer overhead, but also requires additional efforts for managing separate workflows and systems in production.
