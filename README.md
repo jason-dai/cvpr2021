@@ -2,7 +2,7 @@
 ___
 
 ## Speaker
-[**Jason Dai**](https://jason-dai.github.io/) (Intel), **Jason Liu** (Inspur) and **Yang Wang** (Intel)
+[**Jason Dai**](https://jason-dai.github.io/) (Intel), **Jason Liu** (Inspur), and **Yang Wang** (Intel)
 
 
 ## Schedule
@@ -20,5 +20,5 @@ To address these challenges, we have open sourced [Analytics Zoo](https://github
 This tutorial will present the design patterns and tradeoffs for building end-to-end Big Data AI pipelines in production (using Apache Spark and Ray). In addition, it will also share real-world experience and "war stories" of users who have adopted Analytics Zoo to productionize their end-to-end AI pipelines.
 
 ## Link
-* Related [tutorial](https://jason-dai.github.io/cvpr2020/) at [CVPR 2018](http://cvpr2020.thecvf.com)
+* Related [tutorial](https://jason-dai.github.io/cvpr2020/) at [CVPR 2020](http://cvpr2020.thecvf.com)
 * Related [tutorial](https://jason-dai.github.io/aaai2019) at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2)
