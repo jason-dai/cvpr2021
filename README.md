@@ -2,11 +2,7 @@
 ___
 
 ## Speaker
-[Jason Dai](https://jason-dai.github.io/), Intel
-
-Jason Liu, Inspur
-
-Yang Wang, Intel
+[**Jason Dai**](https://jason-dai.github.io/) (Intel), **Jason Liu** (Inspur) and **Yang Wang** (Intel)
 
 
 ## Schedule
