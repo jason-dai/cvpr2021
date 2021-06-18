@@ -1,7 +1,7 @@
 ## End-to-End Big Data AI Pipeline Using Ray and Apache Spark
 ___
 
-## Speaker
+## Speakers
 [**Jason Dai**](https://jason-dai.github.io/) (Intel), **Jason Liu** (Inspur), and **Yang Wang** (Intel)
 
 
