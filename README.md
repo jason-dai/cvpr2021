@@ -1,4 +1,4 @@
-## [CVPR 2021](http://cvpr2021.thecvf.com/) Tutorial: End-to-End Big Data AI Pipeline Using Ray and Apache Spark
+End-to-End Big Data AI Pipeline on Ray and Apache Spark using [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo)
 ___
 
 ## Speakers
