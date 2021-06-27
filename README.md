@@ -20,6 +20,11 @@ To address these challenges, we have open sourced [Analytics Zoo](https://github
 
 This tutorial will present the design patterns and tradeoffs for building end-to-end Big Data AI pipelines in production (using Apache Spark and Ray). In addition, it will also share real-world experience and "war stories" of users who have adopted Analytics Zoo to productionize their end-to-end AI pipelines.
 
+## Slides
+- [E2E Big Data AI Pipeline using Analytics Zoo](slides/End-to-End%20Big%20Data%20AI%20Pipeline%20using%20Analytics%20Zoo%20-%20CVPR21.pdf)
+- [Inspur E2E Smart Transportation CV application](slides/Inspur%20E2E%20Smart%20Transportation%20CV%20application%20-CVPR21.pdf)
+
+
 ## Link
 * Related [tutorial](https://jason-dai.github.io/cvpr2020/) at [CVPR 2020](http://cvpr2020.thecvf.com)
 * Related [tutorial](https://jason-dai.github.io/aaai2019) at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2)
