@@ -9,8 +9,8 @@ ___
 ## Schedule
 _10AM-12PM (East Time), June 19, 2021_
 
-| 10:00 - 10:45   | Seamlessly Scaling out Big Data AI on Ray and Apache Spark | Jason Dai, Intel |
-| 10:45 - 11:30   | E2E Smart Transportation CV application in Inspur (using Insight Data-Intelligence platform) | Jason Liu, Inspur |
+| 10:00 - 10:45   | Seamlessly Scaling out Big Data AI on Ray and Apache Spark ([slides](slides/End-to-End%20Big%20Data%20AI%20Pipeline%20using%20Analytics%20Zoo%20-%20CVPR21.pdf)) | Jason Dai, Intel |
+| 10:45 - 11:30   | E2E Smart Transportation CV application in Inspur (using Insight Data-Intelligence platform) ([slides](slides/Inspur%20E2E%20Smart%20Transportation%20CV%20application%20-CVPR21.pdf)) | Jason Liu, Inspur |
 | 11:30 - 12:00  | Transparent Acceleration of E2E Computer Vision Pipelines | Yang Wang, Intel |
 
 ## Description
